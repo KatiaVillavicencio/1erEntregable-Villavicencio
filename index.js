@@ -63,7 +63,7 @@ productos.getProductById(3)
 
 productos.getProductById(5)
 
-// Verificamos que no se repita "code"
+//Verificamos que no se repita "code"
 
 productos.addProduct ('Florero2','florero de madera', 150,"photo4.png","003","100")
 
